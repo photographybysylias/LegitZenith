@@ -14,4 +14,4 @@
 ##### Zen Network (Minecraft Server)
 
 # Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/1016452732871245944?bg=7100ff&idleMessage=nuking%20several%20countries.)](https://discord.com/users/1016452732871245944)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1016452732871245944?bg=7100ff&animated=true&idleMessage=nuking%20several%20countries.)](https://discord.com/users/1016452732871245944)
