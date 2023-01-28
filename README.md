@@ -9,9 +9,9 @@
 ##### :movie_camera: Netflix Shows/Movies Finished: All MIB Movies, Outer Banks, The Walking Dead, Z Nation, All Of Us Are Dead, Alice In Borderland, Daybreak, Girl From Nowhere, Black Summer, Spider-Man, Don't Look Up, Squid Game, My Name, Red Notice, All The Bright Places, The Package, Extraction, Stranger Things, The 100, Manifest, The Gray Man, Day Shift, Enola Holmes, Wednesday, and Money Heist
 ##### :movie_camera: Netflix Shows/Movies Watching: Breaking Bad, Lucifer, and Better Call Saul.
 
-# Current Projects
-##### ZenBot (Discord Bot)
-##### Zen Network (Minecraft Server)
+# Active Projects
+##### 1. Lithium (Discord Bot)
+##### 2. Zen Unblocked (Unblocked Games Website)
 
 # Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1016452732871245944?bg=7100ff&animated=true&idleMessage=nuking%20several%20countries.)](https://discord.com/users/1016452732871245944)
