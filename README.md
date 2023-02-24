@@ -1,6 +1,6 @@
 # Basic Information
 
-##### :crossed_flags: Languages: Native English, Intermediate Korean
+##### :crossed_flags: Languages: Native English, Intermediate Korean, Beginner Spanish
 ##### :raised_hand: Handedness: Right Handed
 ##### :keyboard: Average WPM: Click [Here](https://monkeytype.com/profile/legitzenith) to view my MonkeyType profile
 ##### :video_game: Games I Enjoy: Minecraft, Roblox Horror, COD MWII, Rocket League, etc.
