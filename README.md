@@ -15,3 +15,8 @@
 
 # Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1016452732871245944?bg=7100ff&animated=true&idleMessage=nuking%20several%20countries.)](https://discord.com/users/1016452732871245944)
+
+# License
+All of my projects that are open-source fall under the [MIT License](https://en.wikipedia.org/wiki/MIT_License)
+
+You can find my license at https://sy.mit-license.org
