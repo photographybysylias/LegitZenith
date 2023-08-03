@@ -1,6 +1,6 @@
 # Basic Information
 
-##### :crossed_flags: Languages: Native English, Intermediate Korean, Beginner Spanish
+##### :crossed_flags: Languages: Native English, Beginner Spanish
 ##### :raised_hand: Handedness: Right Handed
 ##### :keyboard: Average WPM: Click [Here](https://monkeytype.com/profile/legitzenith) to view my MonkeyType profile
 ##### :baseball: Hobbies: Playing with my dogs, Yelling at toddlers in video games, Finishing entire netflix series in one sitting
