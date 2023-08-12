@@ -5,7 +5,7 @@
 
 # Active Projects
 ###### `1.` Lithium
-###### [Learn More](https://bot.legitzenith.com/)
+###### [Learn More](https://legitzenith.com/lithium/)
 
 #####
 
